@@ -22,6 +22,12 @@
   box-sizing: border-box;
 }
 
+/* Custom Text Selection Highlight */
+::selection {
+  background: rgba(96, 165, 250, 0.3);
+  color: #ffffff;
+}
+
 html {
   scroll-behavior: smooth;
 }
