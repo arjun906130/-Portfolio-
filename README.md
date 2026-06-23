@@ -89,7 +89,7 @@ If you would like to collaborate on a project or discuss career opportunities, f
 
 ## ⏰ Last Updated
 
-> **June 2026** — Portfolio redesigned with premium Dark Navy Blue & Glassmorphism theme.
+> **23 June 2026** — Portfolio redesigned with premium Dark Navy Blue & Glassmorphism theme.
 
 ---
 
