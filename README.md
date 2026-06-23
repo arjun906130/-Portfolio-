@@ -100,3 +100,5 @@ If you would like to collaborate on a project or discuss career opportunities, f
 </p>
 
 <p align="center">⭐ If you found this portfolio inspiring, consider giving it a star!</p>
+
+<p align="center">Built with ❤️ by <strong>Arjun C. Anil</strong></p>
