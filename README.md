@@ -101,6 +101,7 @@ If you would like to collaborate on a project or discuss career opportunities, f
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Made%20With-HTML%20%7C%20CSS%20%7C%20JS-blue?style=for-the-badge" alt="Tech">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
 <p align="center">⭐ If you found this portfolio inspiring, consider giving it a star!</p>
