@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arjun906130&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
 # Arjun C. Anil | Professional Portfolio
 
 Welcome to the source code repository for my personal portfolio website. This project showcases my work, skills, and experience as a **Python Full-Stack Developer & Data Analyst**. 
