@@ -26,8 +26,8 @@
 
 /* Custom Text Selection Highlight */
 ::selection {
-  background: rgba(96, 165, 250, 0.3);
-  color: #ffffff;
+  background: rgba(96, 165, 250, 0.25);
+  color: var(--accent-color);
 }
 
 html {
