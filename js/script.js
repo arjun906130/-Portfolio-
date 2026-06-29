@@ -10,13 +10,23 @@ document.addEventListener('DOMContentLoaded', () => {
         const scrolled = (winScroll / height) * 100;
         progressBar.style.width = scrolled + '%';
 
-        // Back to Top visibility
-        if (winScroll > 300) {
-            backToTop.classList.add('visible');
-        } else {
-            backToTop.classList.remove('visible');
-        }
-    });
+    // Back to Top visibility
+    if (winScroll > 300) {
+        backToTop.classList.add('visible');
+    } else {
+        backToTop.classList.remove('visible');
+    }
+
+    // Nav background transition
+    const nav = document.querySelector('nav');
+    if (winScroll > 50) {
+        nav.style.background = 'rgba(8, 12, 24, 0.9)';
+        nav.style.padding = '10px 40px';
+    } else {
+        nav.style.background = 'rgba(8, 12, 24, 0.7)';
+        nav.style.padding = '12px 40px';
+    }
+});
 
     // Create Back to Top button
     const backToTop = document.createElement('div');
