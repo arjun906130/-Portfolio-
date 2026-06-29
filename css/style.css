@@ -279,8 +279,8 @@ nav ul li a.active {
   color: #fff;
   background: var(--primary-gradient);
   border-color: transparent;
-  transform: translateY(-3px);
-  box-shadow: 0 8px 20px rgba(59, 130, 246, 0.3);
+  transform: translateY(-5px) scale(1.1);
+  box-shadow: 0 10px 25px rgba(59, 130, 246, 0.4);
 }
 
 /* CV Button */
