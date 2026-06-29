@@ -73,10 +73,12 @@ The website is organized into four main section pages, each designed for high re
 
 ---
 
-## 🎨 Design Features
-* **Color Palette:** Dominated by custom dark navy blue backgrounds (`#0a192f` / `#112240`), crisp white typography, and vibrant aqua/teal accents (`#64ffda`) for premium contrast.
-* **Glassmorphism:** Card containers use translucent backgrounds with subtle borders and backdrop-blur effects to elevate the visual hierarchy.
-* **Responsiveness:** Fluid grid systems and media queries ensure a seamless experience across mobile devices, tablets, and wide monitors.
+## 🎨 Design & Interactive Features
+* **Premium Dark Mode:** Refined high-contrast dark theme with a focus on visual depth.
+* **Scroll Progress Tracking:** A dynamic indicator at the top of the page that tracks reading progress.
+* **Interactive Glassmorphism:** Card containers use translucent backgrounds with backdrop-blur and glow effects on hover.
+* **Scroll Entry Animations:** Content reveals gracefully as you scroll down the page, enhancing the premium feel.
+* **Responsive & Adaptive:** Fluid grid systems and media queries ensure a seamless experience across all devices.
 
 ---
 
@@ -93,7 +95,7 @@ If you would like to collaborate on a project or discuss career opportunities, f
 
 ## ⏰ Last Updated
 
-> **23 June 2026** — Portfolio redesigned with premium Dark Navy Blue & Glassmorphism theme.
+> **29 June 2026** — Portfolio enhanced with interactive scroll animations, progress tracking, and refined premium aesthetics.
 
 ---
 
